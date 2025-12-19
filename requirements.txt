@@ -1,0 +1,11 @@
+streamlit
+pymongo
+langchain
+langchain-community
+langchain-google-genai
+langchain-groq
+langgraph
+xgboost
+scikit-learn
+pandas
+openpyxl
